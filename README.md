@@ -1,5 +1,5 @@
 # mindMaps
 
-Some mind map draw by myself
+Some mind maps draw by myself
 
 - MySQL
